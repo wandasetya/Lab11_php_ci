@@ -1,2 +1,2 @@
 link lab 11 php ci
-https://github.com/wandasetya/Lab11_php_opp
+https://github.com/wandasetya/Lab11web
